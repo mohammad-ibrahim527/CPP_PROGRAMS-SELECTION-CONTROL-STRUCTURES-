@@ -49,7 +49,7 @@ int main() {
         }
         default: 
 		{
-            cout << "THE CHARCTER IS NOT A CONSONANT";
+            cout << "THE CHARCTER IS NOT A Vowel";
         }
     }
 
